@@ -1,6 +1,6 @@
 package zdSales;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.After;
 import org.junit.Before;
@@ -17,8 +17,9 @@ public class HelloWorldTest {
 	}
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
+	public void testSayHello() {
+		assertEquals("Hello World", new HelloWorld().sayHello());
+		
 	}
 
 }
