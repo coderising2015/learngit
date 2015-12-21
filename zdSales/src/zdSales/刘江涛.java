@@ -1,10 +1,9 @@
 package zdSales;
 
-public class Áõ½­ÌÎ {
+public class åˆ˜æ±Ÿæ¶›  {
 
 	public static void main(String[] args) {
-		// TODO ×Ô¶¯Éú³ÉµÄ·½·¨´æ¸ù
-		System.out.println("Hello£¬ÎÒ¾ÍÊÇÁõ½­ÌÎ£¡");
+		System.out.println("Hello,æˆ‘å°±æ˜¯åˆ˜æ±Ÿæ¶›ï¼");
 	}
 
 }
