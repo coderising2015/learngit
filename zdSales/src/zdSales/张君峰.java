@@ -3,9 +3,9 @@ package zdSales;
 /**
  * Created by Administrator on 2015/12/27.
  */
-public class ÕÅ¾ı·å {
+public class å¼ å›å³° {
     public static void main(String[] args) {
-        System.out.println("ÕÅ¾ı·åÇ°À´±¨µ½");
+        System.out.println("å¼ å›å³°å‰æ¥æŠ¥åˆ°");
 
     }
 }
